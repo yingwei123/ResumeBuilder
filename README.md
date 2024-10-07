@@ -1,6 +1,8 @@
 # Resume Builder
 
 Resume Builder is a web application that allows users to create, edit, and export professional resumes with ease. It features a user-friendly interface, real-time preview, and an AI-powered chat assistant to help with resume writing.
+Can be found here: https://resume-util.netlify.app/
+This is hosted in netlify so if it becomes inactive there might be a cold restart when you try accessing it. You can wait and reload and it should work again.
 
 ## Features
 
